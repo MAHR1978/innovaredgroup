@@ -1,0 +1,1169 @@
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+    .main-menu-area-two .navbar-light .navbar-toggler {
+        padding-top: 0;
+    }
+    .top-header-area {
+        display: none;
+    }
+    .top-header-area ul {
+        margin-top: 15px;
+    }
+    .top-header-area ul li {
+        border: 1px solid #dedede;
+        display: block;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .swiper-slide {
+        height: 400px;
+    }
+    .swiper-slide h1 {
+        font-size: 23px;
+        line-height: 29px;
+    }
+    .swiper-slide p {
+        font-size: 17px;
+    }
+    .share-icons {
+        text-align: center;
+    }
+    .share-icons ul {
+        margin: 0 0 15px;
+    }
+    .share-icons ul li {
+        display: inline-block;
+        margin: 0 5px;
+    }
+    .content-block-area {
+        padding: 40px 0;
+    }
+    .homepage-slides-wrapper {
+        text-align: center;
+    }
+    .section-title h2 {
+        font-size: 25px;
+    }
+    .count-down-boxed .count-number {
+        font-size: 30px;
+    }
+    .count-down-boxed h3 {
+        font-size: 18px;
+    }
+    .body-service-boxed-item.auto-body-bg {
+        height: 250px;
+        margin-bottom: 40px;
+        margin-left: auto;
+    }
+    .boxed-item {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 40px;
+        padding: 40px 20px;
+    }
+    .gray-bg .section-title.text-right {
+        text-align: center!important;
+    }
+    .testimonials-car-boxed {
+        margin-top: 40px;
+        text-align: center;
+    }
+    .testimonial-single-item {
+        margin-top: 40px;
+    }
+    .man-image-bg {
+        display: none;
+    }
+    .appointment-form label {
+        font-size: 17px;
+    }
+    .footer-top-info > p {
+        font-size: 20px;
+    }
+    .footer-icons {
+        font-size: 17px;
+        height: 60px;
+        line-height: 52px;
+        width: 60px;
+    }
+    .footer-logo h3 {
+        margin: 14px 0;
+        font-size: 18px;
+    }
+    .footer-copyright-area {
+        text-align: center;
+    }
+    .footer-copyright-area .text-right {
+        text-align: center!important;
+    }
+    .swiper-slide.swiper-slide-two h1 {
+        font-size: 20px;
+        line-height: 35px;
+        margin: 20px 0 0;
+    }
+    .swiper-slide.swiper-slide-two p {
+        font-size: 18px;
+    }
+    .background-preview h1 {
+        font-size: 25px;
+        line-height: 32px;
+    }
+    .background-preview p {
+        font-size: 18px;
+    }
+    .our-team .description {
+        line-height: 20px;
+        font-size: 13px;
+    }
+    .signup-form {
+        max-width: 390px;
+        padding: 0 15px;
+        width: 100%;
+    }
+    .signup-form form {
+        padding: 15px;
+    }
+    .signup-form h2 {
+        font-size: 25px;
+        margin: 10px 0 15px;
+    }
+    .banner-boxed > h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .gallery-item-one .title {
+        font-size: 20px;
+    }
+    .widget-boxed {
+        margin-top: 30px;
+    }
+    .widget-tile {
+        font-size: 18px;
+    }
+    .single-blog-post .blog-item-info {
+        padding: 30px 15px;
+    }
+    a.pagi-arrow {
+        padding: 5px 14px;
+    }
+    .blog-comment {
+        padding: 30px 15px;
+    }
+    .searchbox-area {
+        display: none;
+        visibility: hidden;
+    }
+    .responsive-menu-area {
+        background: #15aa19;
+        padding: 8px 0 18px;
+    }
+    .responsive-menu-wrap {
+        margin-top: auto;
+        position: absolute;
+        right: 0;
+        top: 50%;
+    }
+    .mean-container .mean-bar {
+        background: transparent;
+    }
+    .background-video h1 {
+        font-size: 25px;
+        line-height: 35px;
+        margin-top: 40px;
+    }
+    .service_left h5, .service_right h5 {
+        font-size: 15px;
+    }
+    .box .title {
+        font-size: 18px;
+        margin: 15px 0 0;
+    }
+    .box .post {
+        font-size: 13px;
+    }
+    .count-down-area {
+        padding: 40px 0;;
+    }
+    .apartment, .office, .car_washing, .renovation {
+        margin-bottom: 0;
+    }
+    .blog-tags {
+        font-size: 12px;
+        padding: 1px 5px;
+    }
+    .sirial-number {
+        display: none;
+    }
+    .breadcumbs-area {
+        height: 200px;
+    }
+    .breadcumbs-area h2 {
+        font-size: 26px;
+    }
+    .banner-boxed > h2 {
+        font-size: 19px;
+        line-height: 29px;
+        margin-top: 20px;
+    }
+    .shorting-menu > button {
+        margin: 0 1px 2px;
+        padding: 0px 7px;
+    }
+    .swiper-button-next, .swiper-container-rtl .swiper-button-prev {
+        display: none;
+    }
+    .swiper-button-prev, .swiper-container-rtl .swiper-button-next {
+        display: none;
+    }
+    .main-menu-two ul .nav-item .nav-link {
+        padding:10px 12px!important;
+    }
+
+    /* Home v4 style */
+    .petcare-slider .single-petcare-slider {
+        height: 100%;
+        padding-top: 200px;
+        padding-bottom: 172px;
+    }
+    .petcare-slider .p-slide-item h1 {
+        font-size: 35px;
+    }
+    .petcare-slider.owl-carousel .owl-controls .owl-nav {
+        display: none;
+    }
+    .pc-about-main {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .pc-section-title h3 {
+        font-size: 25px;
+    }
+    .pc-services-section .custom-btn1 {
+        margin-top: 10px;
+    }
+    .pc-work-section .single-pc-work h3 {
+        font-size: 16px;
+    }
+    .pc-section-title span {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .pc-section-title {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .pc-about-main .single-pc-about .pc-section-title h3 {
+        margin-bottom: 20px;
+    }
+    .pc-about-main .single-pc-about .pc-section-title p {
+        margin-bottom: 20px;
+    }
+    .pc-about-main .single-pc-about .pc-points-wrap .pc-point .pc-point-tx p {
+        font-size: 14px;
+    }
+    .pc-about-main .single-pc-about .pc-points-wrap {
+        margin-bottom: 20px;
+    }
+    .pc-about-main .single-pc-about .pc-point {
+        display: block;
+        width: 100%;
+    }
+    .pc-about-main .single-pc-about .pc-ab-address .sngl-add p {
+        font-size: 12px;
+    }
+    .pc-about-main .single-pc-about .pc-ab-address .sngl-add p>a {
+        font-size: 12px;
+    }
+    .pc-about-main .single-pc-about .pc-ab-address .sngl-add {
+        padding-left: 14px;
+    }
+    .pc-about-main .single-pc-about .img2 {
+        display: none;
+    }
+    .pc-about-main .single-pc-about .img1 {
+        display: none;
+    }
+    section.pc-work-section {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    .pc-work-section .single-pc-work .pc-i i {
+        width: 100px;
+        height: 100px;
+    }
+    .pc-work-section .single-pc-work .pc-i i::before {
+        font-size: 40px;
+    }
+    .pc-choose-section {
+        clip-path: none;
+    }
+    .pc-choose-section {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    .pc-choose-section .single-choose2 {
+        margin-top: 20px;
+    }
+    .pc-choose-section .single-choose .pc-section-title h3 {
+        margin-bottom: 15px;
+    }
+    .pc-choose-section .single-choose2 .choose-box .icon i:before {
+        font-size: 45px;
+    }
+    .pc-choose-section .single-choose2 .choose-box p {
+        font-size: 15px;
+    }
+    .pc-choose-section .single-choose2 .choose-box .icon h2 {
+        font-size: 16px;
+    }
+    .pc-choose-section-shape {
+        display: none;
+    }
+    .pc-services-section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .pc-services-section .single-pc-service .s-icon {
+        left: 70%;
+        text-align: unset;
+    }
+    .pc-team-section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .custom-btn1 {
+        font-size: 12px;
+        padding: 10px 30px;
+    }
+    .pc-counter-section {
+        padding-top: 50px;
+        padding-bottom: 20px;
+        background-image: unset;
+    }
+    .counter-shape {
+       display: none;
+    }
+    .pc-counter-section .pc-single-counter .count-icon-wrap h2 {
+        font-size: 35px;
+    }
+    .pc-counter-section .pc-single-counter p {
+        font-size: 15px;
+    }
+    .pc-counter-section .pc-single-counter .count-icon-wrap i::before {
+        font-size: 30px;
+    }
+    section.pc-fees-section {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    .pc-fees-section .pc-single-f-card .fees-card-top {
+        padding: 25px 0;
+    }
+    .pc-fees-section .pc-single-f-card .fees-card-top h4 {
+        font-size: 25px;
+    }
+    .pc-fees-section .pc-single-f-card .fees-card-top h5 {
+        font-size: 14px;
+    }
+    .pc-fees-section .pc-single-f-card .fees-card-content {
+        padding: 20px 0;
+    }
+    .pc-fees-section .pc-single-f-card .fees-card-content li {
+        font-size: 14px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .pc-testimonials-section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .pc-testimonials-section .pc-single-testimonial {
+        padding: 30px 20px;
+    }
+    .pc-testimonials-section .pc-single-testimonial p {
+        font-size: 14px;
+    }
+    .pc-testimonials-section .pc-single-testimonial .tst-cap h3 {
+        font-size: 15px;
+    }
+    .pc-testimonials-section .pc-single-testimonial .tst-cap h4 {
+        font-size: 12px;
+    }
+    .pc-testimonials-section .pc-single-testimonial::before {
+        top: 35%;
+    }
+    .pc-testimonials-section .owl-carousel .owl-controls .owl-nav {
+        margin-top: 22px;
+        text-align: center;
+    }
+    .pc-testimonials-section .owl-carousel .owl-controls .owl-nav .owl-next {
+        width: 35px;
+        height: 35px;
+    }
+    .pc-testimonials-section .owl-carousel .owl-controls .owl-nav .owl-prev {
+        width: 35px;
+        height: 35px;
+    }
+    .pc-contact-section .single-contact .contact-form .form-inline .submit-btn {
+        margin-top: 10px;
+    }
+    .pc-blog-section .pc-single-blog .blg-img-caption {
+        padding: 25px 20px;
+    }
+    .pc-footer-area {
+        padding-top: 50px;
+    }
+    .pc-contact-section {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    .pc-contact-section .single-contact {
+        margin-bottom: 30px;
+    }
+    .pc-contact-section form#contactForm {
+        padding: 23px;
+    }
+    .pc-contact-section .single-contact .contact-form .form-inline input {
+        width: 100%;
+    }
+    button.btn.btn-primary.submit-btn.disabled {
+        margin-top: 10px;
+    }
+    .pc-logo-section {
+        padding: 0px 0;
+        background: transparent;
+    }
+    .pc-contact-section .single-contact .contact-form .con-head {
+        padding: 15px 0;
+    }
+    section.pc-blog-section {
+        padding-top: 50px;
+        padding-bottom: 48px;
+    }
+    .pc-blog-section .pc-single-blog {
+        margin-bottom: 30px;
+    }
+    .pc-blog-section .blog-btn {
+        margin-top: 0px;
+    }
+    .pc-work-section .single-pc-work:before {
+        display: none;
+    }
+    .pc-services-section .owl-carousel .owl-controls .owl-nav .owl-prev {
+        left: 0;
+        width: 40px;
+        height: 40px;
+    }
+    .pc-services-section .owl-carousel .owl-controls .owl-nav .owl-next {
+        right: 0;
+        width: 40px;
+        height: 40px;
+    }
+    .pet-about-top-card {
+        margin-top: 50px;
+    }
+    .pet-about-top-card .single-pet-ab-card {
+        padding: 55px 15px; 
+    }
+    /* End Home v4 style */
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+    .top-header-area {
+        display: none;
+        text-align: center;
+        padding: 20px 0;
+    }
+    .top-header-area ul li {
+        border: 1px solid #dedede;
+        margin: 0 5px;
+    }   
+    .share-icons {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .homepage-slides-wrapper .col-md-6 {
+        padding: 0 50px;
+    }
+    .swiper-slide h1 {
+        font-size: 35px;
+        line-height: 55px;
+    }
+    .content-block-area {
+        padding: 60px 0;
+    }
+    .body-service-boxed-item.auto-body-bg {
+        height: 400px;
+        margin-bottom: 60px;
+        margin-left: auto;
+    }
+    .gray-bg .section-title.text-right {
+        text-align: center!important;
+    }
+    .testimonials-car-boxed {
+        margin-top: 60px;
+        margin-bottom: 60px;
+        text-align: center;
+    }
+    .apointment-preview-boxed.man-image-bg {
+        display: none;
+    }
+    .footer-icons {
+        font-size: 25px;
+        height: 65px;
+        line-height: 60px;
+        width: 65px;
+    }
+    .footer-top-info > p {
+        font-size: 20px;
+    }
+    .swiper-slide.swiper-slide-two h1 {
+        font-size: 40px;
+    }
+    .blog-item-info h3 {
+        font-size: 15px;
+    }
+    .mrb-30 {
+        margin-bottom: 30px;
+    }
+    .signup-form {
+        margin: 121px auto;
+    }
+    .signin-form {
+        padding: 53px 0;
+    }
+    .widget-tile {
+        font-size: 17px;
+    }
+    a.pagi-arrow {
+        padding: 5px 20px;
+    }
+    .single-blog-post .blog-item-info {
+        padding: 35px 15px;
+    }
+    .blog-comment {
+        padding: 30px 15px;
+    }
+    .contact-us .media .media-body h4 {
+        font-size: 13px;
+    }
+    .three-img {
+        margin: 40px auto auto;
+        max-width: 450px;
+        width: 100%;
+    }
+    .searchbox-area {
+        display: none;
+        visibility: hidden;
+    }
+    .responsive-menu-area {
+        background: #15aa19;
+        padding: 15px 0;
+    }
+    .responsive-menu-wrap {
+      margin-top: -20px;
+      position: absolute;
+      right: 0;
+      top: 50%;
+    }
+    .mean-container .mean-bar {
+      background: transparent;
+    }
+    .background-video h1 {
+        font-size: 40px;
+    }
+    .service_left h5, .service_right h5 {
+        font-size: 15px;
+    }
+    .swiper-slide {
+        height: 498px;
+    }
+    .breadcumbs-area {
+        height: 320px;
+    }
+    .main-menu-two ul .nav-item .nav-link {
+        padding: 10px 12px!important;
+    }
+
+    /* Home page v4 style */
+    .petcare-slider .single-petcare-slider {
+        height: 100%;
+        padding-top: 230px;
+        padding-bottom: 150px;
+    }
+    .petcare-slider .p-slide-item h1 {
+        font-size: 40px;
+        max-width: 405px;
+    }
+    section.pc-about-section { 
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .pet-about-top-card .single-pet-ab-card p {
+        font-size: 15px;
+    }
+    .pc-section-title h3 {
+        font-size: 25px;
+    }
+    .pc-about-main {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .pc-about-main .single-pc-about .pc-section-title h3 {
+        margin-bottom: 10px;
+    }
+    .pc-about-main .single-pc-about .pc-section-title p {
+        margin-bottom: 20px;
+    }
+    .pc-section-title {
+        margin-bottom: 40px;
+    }
+    .pc-about-main .single-pc-about .pc-points-wrap {
+        margin-bottom: 10px;
+    }
+    .pc-about-main .single-pc-about .img2 {
+        display: none;
+    }
+    .pc-about-main .single-pc-about .img1 {
+        display: none;
+    }
+    section.pc-work-section {
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    .pc-choose-section {
+        clip-path: none;
+    }
+    .pc-choose-section {
+        position: relative;
+        padding: 50px 0 20px;
+    }
+    .pc-choose-section .single-choose2 {
+        margin-top: 50px;
+    }
+    .pc-choose-section-shape {
+        display: none;
+    }
+    section.pc-services-section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .pc-counter-section {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    .pc-counter-section .counter-shape .shape-1 {
+        display: none;
+    }
+    .pc-counter-section .counter-shape .shape-2 {
+        display: none;
+    }
+    section.pc-team-section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    section.pc-fees-section {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    .pc-testimonials-section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .pc-testimonials-section .pc-single-testimonial::before {
+        top: 30%;
+        left: 35%;
+    }
+    .pc-testimonials-section .pc-single-testimonial p {
+        font-size: 15px;
+    }
+    .pc-testimonials-section .pc-single-testimonial .tst-cap h3 {
+        font-size: 15px;
+    }
+    section.pc-contact-section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .single-contact img {
+        display: none;
+    }
+    .pc-contact-section .single-contact .contact-form .form-inline .form-control {
+        width: 100%;
+    }
+    .pc-logo-section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    section.pc-blog-section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .pc-single-blog {
+        margin-bottom: 30px;
+    }
+    .pc-blog-section .pc-single-blog .blg-img {
+        clip-path: polygon( 0 0, 100% 0, 100% 100%, 0 calc(115% - 5vw) );
+    }
+    .pc-footer-top-section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .pc-footer-top-section .pc-footer-info p {
+        font-size: 16px;
+    }
+    .pc-footer-info {
+        margin-bottom: 30px;
+    }
+    .pc-footer-top-section .pc-foot-link h2 {
+        margin-bottom: 15px;
+        font-size: 20px;
+    }
+    .pc-foot-link {
+        margin-bottom: 30px;
+    }
+    .pc-footer-top-section .pc-foot-link-contact h2 {
+        margin-bottom: 30px;
+        font-size: 20px;
+    }
+    .pc-blog-section .blog-btn {
+        margin: auto;
+        margin-top: 20px;
+    }
+    .pet-about-top-card {
+        margin-top: unset;
+    }
+    .pc-work-section .single-pc-work:before {
+        display: none;
+    }
+    .pc-services-section .owl-carousel .owl-controls .owl-nav {
+        display: none;
+    }
+    .pc-counter-section .pc-single-counter .count-icon-wrap h2 {
+        font-size: 40px;
+    }
+    .pc-footer-area {
+        padding-top: 60px;
+    }
+    .pet-about-top-card .single-pet-ab-card {
+        padding: 55px 15px; 
+    }
+    /* End Home page v4 style */
+} 
+
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .main-menu ul li a {
+      font-size: 13px;
+      padding: 30px 5px;
+    }
+    .top-header-area ul li a { 
+        font-size: 13px;
+    }
+    .swiper-slide h1 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+    .content-block-area {
+        padding: 70px 0;
+    }
+    .count-down-boxed h3 {
+        font-size: 15px;
+    }
+    .apointment-preview-boxed.man-image-bg {
+        background-size: 100% 100%;
+        height: 620px;
+    }
+    .blog-item-info h3 {
+        font-size: 18px;
+    }
+    .footer-top-info > p {
+        font-size: 25px;
+    }
+    .swiper-slide.swiper-slide-two h1 {
+        font-size: 40px;
+    }
+    .boxed-item > h3 {
+        font-size: 14px;
+    }
+    .signup-form {
+        margin: auto;
+    }
+    .signin-form {
+        padding: 36px 0;
+    }
+    .gallery-item-one .title {
+        font-size: 20px;
+    }
+    .widget-tile {
+        font-size: 15px;
+    }
+    .widget-follow-us ul li {
+        margin: 0 10px;
+    }
+    .single-popular-news-item img {
+        width: 45px;
+    }
+    .main-menu ul li ul {
+      width: 158px;
+    }
+    .main-menu-area .logo {
+        padding: 15px 0 12px;
+    }
+    .main-menu-area .logo a img {
+        width: 180px;
+    }
+    .main-menu ul li ul li a {
+        padding: 10px 15px;
+    }
+    .main-menu .dropdown-menu.right-top {
+        min-width: 155px;
+    }
+    .background-video h1 {
+        font-size: 40px;
+    }
+    .main-menu-two ul li a {
+        font-size: 13px;
+    }
+    .main-menu-area-two .navbar-brand img {
+        width: 150px;
+        padding-top: 0;
+    }
+    .service_left h5, .service_right h5 {
+        font-size: 16px;
+    }
+    .appointment-form label {
+        font-size: 16px;
+    }
+    .swiper-slide {
+        height: 600px;
+    }
+    .box .post {
+        display: none;
+    }
+    .vertical-menu ul li a {
+        padding: 15px 8px;
+        font-size: 14px;
+    }
+    .pricingTable .title {
+        font-size: 14px;
+    }
+    .left-widget.download-box > a {
+        padding: 5px 5px;
+        font-size: 14px;
+    }
+    .btn {
+        padding: 9px 17px;
+        font-size: 14px;
+    }
+    .single-item-boxed h4 {
+        font-size: 13px;
+    }
+    .breadcumbs-area {
+        height: 280px;
+    }
+    .widget-categories ul li a {
+        font-size: 13px;
+    }
+    .blog-tags {
+        padding: 1px 5px;
+        font-size: 10px;
+    }
+    .services-item-two .title {
+        font-size: 17px;
+    }
+    .contact-form-area {
+        padding: 30px 0 0;
+    }
+
+    /* Home page v4 style */
+    .pc-services-section .owl-carousel .owl-controls .owl-nav {
+        display: none;
+    }
+    .pc-footer-top-section .pc-foot-link h2 {
+        font-size: 20px;
+    }
+    .pc-footer-top-section .pc-foot-link-contact h2 {
+        font-size: 20px;
+    }
+    .pc-about-main {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    section.pc-work-section {
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+    .pc-work-section .single-pc-work:before {
+        left: 220px;
+    }
+    .pc-choose-section {
+        padding-bottom: 60px;
+    }
+    .pc-services-section {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .pc-team-section {
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+    .pc-counter-section {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    .pc-counter-section .counter-shape .shape-1 {
+        max-width: 115px;
+        width: 100%;
+    }
+    .pc-counter-section .counter-shape .shape-2 {
+        max-width: 115px;
+        width: 100%;
+    }
+    section.pc-fees-section {
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+    .pc-testimonials-section {
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+    .pc-contact-section {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .pc-logo-section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    section.pc-blog-section {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .pc-footer-top-section {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .pc-choose-section .pc-choose-section-shape .shape5 {
+        display: none;
+    }
+    .pc-choose-section .pc-choose-section-shape .shape12 {
+        display: none;
+    }
+    .pc-choose-section .pc-choose-section-shape .shape10 {
+        display: none;
+    }
+    .pc-choose-section .pc-choose-section-shape .shape4 {
+        display: none;
+    }
+    .pc-choose-section .pc-choose-section-shape .shape7 {
+        display: none;
+    }
+    .pc-choose-section .single-choose2 .choose-box .icon i:before {
+        font-size: 50px;
+    }
+    .pc-footer-area {
+        padding-top: 70px;
+    }
+    .pc-blog-section .pc-single-blog .blg-img-caption {
+        padding: 25px 20px;
+    }
+    .pc-counter-section .pc-single-counter .count-icon-wrap h2 {
+        font-size: 40px;
+    }
+    .pc-services-section .single-pc-service .service-pc-text h4 {
+        font-size: 15px;
+    }
+    .petcare-slider .p-slide-item h1 {
+        font-size: 45px;
+    }
+    /* End Home page v4 style */
+}
+
+@media only screen and (max-width: 459px) { 
+    .three-img {
+        margin: auto;
+        max-width: 215px;
+        padding: 20px 0 0;
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 460px) and (max-width: 767px) { 
+    .three-img {
+        margin: 40px auto auto;
+        max-width: 450px;
+        width: 100%;
+    }
+}
+
+/* medium Devices, Tablets and tablet portrait screen */
+@media (max-width: 991px) {
+    .main-menu-area {
+        background-color: #041E42;
+    }
+    .main-menu-area .logo::before {
+        z-index: 0;
+    }
+    .main-menu-area {
+        position: fixed;
+        top: 0;
+        z-index: 9999;
+        width: 100%;
+        left: 0;
+        right: 0;
+    }
+    .main-menu-area .logo {
+        padding: 7px 0 6px;
+    }
+    .main-menu-area .logo a img {
+        width: 150px;
+    }
+    .main-menu-area .navbar-light .navbar-toggler {
+        display: block;
+    }
+    .main-menu-area .navbar-light .navbar-collapse {
+        background-color: #fff;
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .main-menu-area .navbar-light .navbar-fixed-top {
+		top: 0;
+		border-width: 0 0 1px;
+	}
+    .main-menu-area .navbar-light .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .main-menu-area .navbar-light .navbar-nav {
+        float: none!important;
+		margin-top: 7.5px;
+	}
+	.main-menu-area .navbar-light .navbar-nav > li {
+        float: none;
+    }
+    .main-menu-area .navbar-light .navbar-nav > li > a {
+        padding: 10px 10px;
+    }
+    .main-menu-area .navbar-light .collapse.show {
+  		display:block !important;
+	}
+    /* Main menu area two */
+    .main-menu-area-two .navbar-light {
+        background-color: #000;
+        padding-bottom: 2px;
+    }
+    .main-menu-area-two .navbar-light .navbar-brand {
+        padding-top: 10px;
+        padding-left: 15px;
+        padding-bottom: 10px;
+    }
+    .main-menu-area-two .navbar-light .navbar-brand img {
+        width: 120px;
+    }
+    .main-menu-area-two .navbar-light .navbar-toggler {
+        margin-top: 0;
+    }
+  
+    /* Een main menu area two */
+    .bc-area-padding {
+        padding: 50px 0 0;
+    }
+}
+
+/* Large screens ----------- */
+@media only screen and (min-width : 1824px) {
+    .signup-form {
+        margin: 90px auto;
+    }
+    .signin-form {
+        padding: 55px 0;
+    }
+
+    /* Home page v4 style */
+    .petcare-slider .single-petcare-slider {
+        height: 900px;
+    }
+    /* End Home page v4 style */
+}
+/*============ Custom Media Responsive CSS ============*/
+@media screen and (max-width:1200px){
+    .service_right h5 {
+        margin-left: 10px
+    }
+    .service_left h5 {
+        margin-right: 10px
+    }
+}
+
+@media screen and (max-width:991px){
+    .service_sidebar{
+        margin-top: 50px
+    }
+    .service_middle {
+        border: none
+    }
+    .service_middle img{
+        display: none
+    }
+    .service_left, .service_right{
+        width:48%
+    }
+    .office , .renovation{
+    padding: 0
+    }
+}
+
+@media screen and (max-width:767px){
+    .service_left, .service_right {
+        position: static;
+        width: 100%;
+        padding-left: 15px;
+        padding-right: 15px
+    }
+    .service_middle {
+        display: none
+    }
+    .apartment, .office, .move_in_out{
+        width: 100%;
+        float: none
+    }
+    .service_content a{
+        display: inline-block;
+        width: 100%
+    }
+    .service_left .service_icon {
+        float: none;
+        margin: 0 auto
+    }
+    .service_left h5{
+        margin-right: 0;
+        margin-top: 20px;
+        text-align: center;
+        width: 100%
+    }
+    .car_washing, .renovation, .green_cleaning {
+        float: none;
+        width: 100%
+    }
+    .service_right .service_icon {
+        float: none;
+        margin: 0 auto
+    }
+    .service_right h5{
+        margin-left: 0;
+        margin-top: 20px;
+        text-align: center;
+        width: 100%
+    }	
+}
+/*------------ Media Query for mobile landscape Screen -----------*/
+@media screen and (max-width: 767px) and (min-width: 360px){
+    @media screen and (orientation:landscape) { 
+		.service_left > div, .service_right > div{
+			width: 33%;
+			float: left;
+			padding-left: 15px;
+			padding-right: 15px
+		}
+    }
+}
